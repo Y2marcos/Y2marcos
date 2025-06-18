@@ -1,4 +1,4 @@
-f## Hi there  👋
+## Hi there  👋
 ![Hacker Theme](https://img.shields.io/badge/Theme-Hacker-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Stars](https://img.shields.io/badge/Stars-1k-green)
@@ -146,8 +146,5 @@ I am Marcos, a tech enthusiast passionate about Embedded Systems, Robotics, IoT 
 
 ###
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+
 </div>
