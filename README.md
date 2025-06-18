@@ -14,10 +14,6 @@
 
 Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Systems**, **Robotics**, **IoT**, and **PCB Design**. I love transforming ideas into reality through intelligent circuits, smart devices, and innovative robotics. 
 
-<div align="center">
-  My motto: *"Be a MAKER, enjoy making!"*
-</div>
-
 
 - 🔭 **Currently working on**: CAN sniffer and RF signals.
 - 🌱 **Learning**: Rust for embedded systems and advanced ML for robotics.
@@ -25,6 +21,10 @@ Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Syst
 - 💬 **Ask me about**: Microcontrollers, embedded systems, PCB layout, or IoT protocols.
 - 📫 **Reach me**: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 - ⚡ **Fun fact**: I built my first robot at 15 using scavenged parts!
+
+
+
+# My motto: *"Be a MAKER, enjoy making!"*
 
 ---
 
