@@ -15,8 +15,8 @@
 Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Systems**, **Robotics**, **IoT**, and **PCB Design**. I love transforming ideas into reality through intelligent circuits, smart devices, and innovative robotics. 
 
 
-- 🔭 **Currently working on**: CAN sniffer and RF signals.
-- 🌱 **Learning**: Rust for embedded systems and advanced ML for robotics.
+- 🔭 **Currently working on**: on various projects like CAN sniffer, RF signals and in Embedded area (FPGA, Automotive, Reverse Engineering).
+- 🌱 **Learning**: learning programming µC on Embedded Systems and advanced ML for robotics.
 - 👯 **Open to collaborate on**: Open-source hardware and IoT projects.
 - 💬 **Ask me about**: Microcontrollers, embedded systems, PCB layout, or IoT protocols.
 - 📫 **Reach me**: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
