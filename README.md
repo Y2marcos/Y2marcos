@@ -1,4 +1,4 @@
-## Hi there  👋
+f## Hi there  👋
 ![Hacker Theme](https://img.shields.io/badge/Theme-Hacker-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Stars](https://img.shields.io/badge/Stars-1k-green)
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   <img height="200" src="tumblr_1d24da58393e01f9b04de04e87561212_4d567767_540.webp"  />
 </div>
 
-I am D3V a tech enthusiast passionate about Embedded Systems, Robotics, IoT and PCB Design. I thrive on bringing ideas to life through smart devices, intelligent circuits, and innovative robotics.
+I am Marcos, a tech enthusiast passionate about Embedded Systems, Robotics, IoT and PCB Design. I thrive on bringing ideas to life through smart devices, intelligent circuits, and innovative robotics.
 
-## " Be a MAKER enjoy making "
+## " Be a MAKER, enjoy making "
 <p align="left"></p>
 
 ###
