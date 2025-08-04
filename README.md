@@ -18,13 +18,13 @@ Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Syst
 - 🔭 **Currently working on**: on various projects like CAN sniffer, RF signals and in Embedded area (FPGA, Automotive, Reverse Engineering).
 - 🌱 **Learning**: learning programming µC on Embedded Systems and advanced ML for robotics.
 - 👯 **Open to collaborate on**: Open-source hardware and IoT projects.
-- 💬 **Ask me about**: Microcontrollers, embedded systems, PCB layout, or IoT protocols.
+- 💬 **Ask me about**: Networking, Microcontrollers, embedded systems, PCB design, or IoT protocols.
 - 📫 **Reach me**: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 - ⚡ **Fun fact**: I built my first robot at 15 using scavenged parts!
 
 
 
-# My motto: *"Be a MAKER, enjoy making!"*
+#  *"Be a MAKER, enjoy making!"*
 
 ---
 
