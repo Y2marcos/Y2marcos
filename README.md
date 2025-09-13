@@ -20,7 +20,7 @@ Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Syst
 - 👯 **Open to collaborate on**: Open-source hardware and IoT projects.
 - 💬 **Ask me about**: Networking, Microcontrollers, embedded systems, PCB design, or IoT protocols.
 - 📫 **Reach me**: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
-- ⚡ **Fun fact**: I built my first robot at 15 using scavenged parts!
+
 
 
 
