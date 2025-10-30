@@ -98,5 +98,5 @@ Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Syst
 ---
 
 <div align="center">
-  <p><b>Thanks for visiting! Let's build the future of tech together! 🚀</b></p>
+  <p><b>Thanks for visiting!</b></p>
 </div>
