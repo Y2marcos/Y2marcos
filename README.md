@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Systems**, **Robotics**, **IoT**, and **PCB Design**. I love transforming ideas into reality through intelligent circuits, smart devices, and innovative robotics. 
+Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Systems**, **Robotics**, and **IoT**. I love transforming ideas into reality through intelligent circuits, smart devices, and innovative robotics. 
 
 
 - 🔭 **Currently working on**: on various projects like CAN sniffer, RF signals and in Embedded area (FPGA, Automotive, Reverse Engineering).
