@@ -100,3 +100,6 @@ Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Syst
 <div align="center">
   <p><b>Thanks for visiting!</b></p>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&text=Below%20are%20some%20of%20my%20top%20projects&textBg=false&fontSize=30&section=footer&fontAlignY=80&animation=fadeIn"/>
+</p>
