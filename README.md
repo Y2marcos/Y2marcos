@@ -21,9 +21,6 @@ Hi, I'm **Marcos**, a passionate tech enthusiast specializing in **Embedded Syst
 - 💬 **Ask me about**: Networking, Microcontrollers, embedded systems, PCB design, or IoT protocols.
 - 📫 **Reach me**: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
-
-
-
 #  *"Be a MAKER, enjoy making!"*
 
 ---
